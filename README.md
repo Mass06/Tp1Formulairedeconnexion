@@ -4,7 +4,7 @@ Ce programme est un formulaire de connexion avec des fonctionnalités de créati
 
 ## Informations techniques
 
-Ce programme est écrit en Python et utilise les bibliothèques suivantes :
+Ce programme est écrit en Python et utilise les bibliothèques suivantes donc il est nécessaire de les télecharger via 'pip install' :
 - tkinter : pour l'interface graphique
 - PIL (Python Imaging Library) : pour manipuler des images
 - csv : pour la manipulation des fichiers CSV
